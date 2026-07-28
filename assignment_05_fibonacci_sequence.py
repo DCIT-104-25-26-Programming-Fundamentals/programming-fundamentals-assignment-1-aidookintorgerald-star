@@ -49,11 +49,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
-# Topic: Loops, Sequences, and Functions
-# =============================================================================
-#
-# TASK: Fibonacci Sequence Generator
-#
+
 
 
 def generate_fibonacci(n):
