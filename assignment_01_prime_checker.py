@@ -37,11 +37,8 @@
 
 
 
-# Topic: Conditional Logic, Loops, and Functions
-# =============================================================================
-#
-# TASK: Prime Number Checker
-#
+
+
 
 
 def is_prime(number):
